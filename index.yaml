@@ -3,7 +3,17 @@ entries:
   settlement-service:
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2020-12-16T11:37:21.943465247+09:30"
+    created: "2020-12-16T11:41:14.82071098+09:30"
+    description: A Helm chart for Kubernetes
+    digest: 8f6ed980b82f9d83ba8e9a1dc92ee20ff5ff904c5491a17725d1c9c26c07b51d
+    name: settlement-service
+    type: application
+    urls:
+    - https://lukesterg.github.io/helm-repo-test/settlement-service-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2020-12-16T11:41:14.820157248+09:30"
     description: A Helm chart for Kubernetes
     digest: 083d4b47a0dd6772fce755ec97de92d67804d02f0cd5225e4df389e09f29a6a8
     name: settlement-service
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2020-12-16T11:37:21.94290744+09:30"
+    created: "2020-12-16T11:41:14.819594371+09:30"
     description: A Helm chart for Kubernetes
     digest: adbaa816b02ee7c69ae6bbc54ee88e40c2a8e2557ca5b686a381ebabe8661eac
     name: settlement-service
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://lukesterg.github.io/helm-repo-test/settlement-service-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-16T11:37:21.942090392+09:30"
+generated: "2020-12-16T11:41:14.818584137+09:30"
